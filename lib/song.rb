@@ -4,8 +4,6 @@ class Song
 
   def initialize(title)
     @title = title
-    @name = name
-    this.artist = name
   end
 
 
