@@ -4,7 +4,8 @@ class Post
 
   def initialize
     @title = title
-    this.author = author
+
+    this.@author = author
   end
 
 
