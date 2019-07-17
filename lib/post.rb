@@ -6,6 +6,8 @@ class Post
     @title = title
 
     @author = author
+
+    this.author = author
   end
 
 
